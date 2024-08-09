@@ -5,3 +5,7 @@
 .body__text {
   color: blue;
 }
+
+.body__text:hover {
+  color: red;
+}
